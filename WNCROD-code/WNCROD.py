@@ -1,6 +1,6 @@
 # Three-way neighborhood characteristic region-based outlier detection (3WIROD) algorithm
 # Please refer to the following papers:
-# Zhang xianyong,Yuan Zhong, and Miao Duoqian.Outlier Detection Using Three-Way
+# Zhang Xianyong, Yuan Zhong, and Miao Duoqian.Outlier Detection Using Three-Way
 # Neighborhood Characteristic Regions and Corresponding Fusion Measurement[J].TKDE,2023.
 # Uploaded by Yuan Zhong on August 29, 2023. E-mail:yuanzhong2799@foxmail.com.
 import numpy as np
