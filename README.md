@@ -46,7 +46,7 @@ out_scores =
 If you find 3WNCROD useful in your research, please consider citing:
 ```
 @article{zhang2023outlier,
-  title={Outlier detection using three-way neighborhood characteristic regions and corresponding fusion measurement},
+  title={Outlier Detection Using Three-way Neighborhood Characteristic Regions and Corresponding Fusion Measurement},
   author={Zhang, Xian Yong and Yuan, Zhong and Miao, Duo Qian},
   journal={IEEE Transactions on Knowledge and Data Engineering},
   volume={ },
