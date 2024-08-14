@@ -5,7 +5,7 @@ Xianyong Zhang, **Zhong Yuan***, and Duoqian Miao,[Outlier Detection Using Three
 Outliers carry significant information to reflect an anomaly mechanism, so outlier detection facilitates relevant data mining. In terms of outlier detection, the classical approaches from distances apply to numerical data rather than nominal data, while the recent methods on basic rough sets deal with nominal data rather than numerical data. Aiming at wide outlier detection on numerical, nominal, and hybrid data, this paper investigates three-way neighborhood characteristic regions and corresponding fusion measurement to advance outlier detection. First, neighborhood rough sets are deepened via three-way decision, so they derive three-way neighborhood structures on model boundaries, inner regions, and characteristic regions. Second, the three-way neighborhood characteristic regions motivate the information fusion and weight measurement regarding all features, and thus, a multiple neighborhood outlier factor emerges to establish a new method of outlier detection; furthermore, a relevant outlier detection algorithm (called 3WNCROD) is designed to comprehensively process numerical, nominal, and mixed data. Finally, the 3WNCROD algorithm is experimentally validated, and it generally outperforms 13 contrast algorithms to perform better for outlier detection.
 
 ## Framework
-![image](Paper/WNCROD_Framework.pdf)
+![image](Paper/WNCROD_Framework.png)
 
 ## Usage
 You can run Demo_WNCROD.m or WNCROD.py:
